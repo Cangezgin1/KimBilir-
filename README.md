@@ -1,6 +1,6 @@
 ### KimBilir YarismaProgramı
 
-Proje mağazalarla anlaşmalı olarak yarışma programıdır.
+Proje mağazalarla anlaşmalı bir yarışma programıdır.
 Mağazalardan belli tutarın üzerindeki alışverişlerde verilen kupon kodları ile giriş yapılabilmektedir. Bunun yanı sıra ücret karşılığındada girilebilmektedir.
 Proje'ye ait Script(Veritabanı) dosyasını indirip kurabilirsiniz.
 14 Windows Form ekranından oluşmaktadır.
